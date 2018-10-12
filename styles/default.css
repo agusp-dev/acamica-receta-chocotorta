@@ -87,7 +87,7 @@ h3 {
     margin: 0px 0px 20px;
 }
 
-.img-footer {
+.footer-item {
     background: #fff;
     width: 200px;
     display: inline-block;  
@@ -101,7 +101,7 @@ h3 {
     margin-right: 5px;
 }
 
-.img-footer img {
+.footer-item img {
     width: 190px;
     margin-bottom: 5px;
 }
